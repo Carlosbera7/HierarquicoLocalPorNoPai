@@ -1,5 +1,5 @@
 # HierarquicoLocalPorNoPai
-'''
+```
 PS T:\ProjetoPython\Grafo> & C:/Users/CARLOS.SILVA/AppData/Local/Programs/Python/Python311/python.exe t:/ProjetoPython/Grafo/valido/c.py
 [nltk_data] Downloading package stopwords to
 [nltk_data]     C:\Users\CARLOS.SILVA\AppData\Roaming\nltk_data...
@@ -377,4 +377,4 @@ weighted avg       0.79      0.37      0.26        19
     accuracy                           1.00      1701
    macro avg       0.80      0.75      0.77      1701
 weighted avg       1.00      1.00      1.00      1701
-'''
+```
