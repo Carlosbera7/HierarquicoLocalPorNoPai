@@ -1,5 +1,5 @@
 # HierarquicoLocalPorNoPai
-'''
+```
 🔷 [Nó] Hate.speech - Treinando com 859 positivos, 3108 negativos
 2025-07-24 13:54:12,936 - INFO - 
 📊 Relatório para 'Hate.speech': 
@@ -514,5 +514,5 @@ weighted avg       1.00      0.38      0.55         8
     accuracy                           0.75         8
    macro avg       0.67      0.86      0.67         8
 weighted avg       0.92      0.75      0.79         8
-'''
+```
 
