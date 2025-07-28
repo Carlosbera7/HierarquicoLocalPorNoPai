@@ -31,6 +31,10 @@
 | Origin             | 0.00          | 0.00       | **0.00**     | 1.00           |
 | Women              | 0.62          | 0.89       | **0.73**     | 0.70           |
 
+laranja por no pai
+<img width="2779" height="1580" alt="ccd6e45c-6eb9-41ed-a19b-07c937718bb2 (1)" src="https://github.com/user-attachments/assets/dc0e7311-55d3-49d0-a62f-ce70cd6f781b" />
+
+
 
 # HierarquicoLocalPorNoPai
 ```
