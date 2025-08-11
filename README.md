@@ -1,5 +1,7 @@
 # HierarquicoLocalPorNoPai
 
+<img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/b1cae44c-c92a-4c8d-a7db-0e5eda990b6f" />
+
 
 | Rótulo | Prec. (0) | Recall (0) | F1 (0) | Prec. (1) | Recall (1) | F1 (1) | Acurácia |
 |--------|-----------|------------|--------|-----------|------------|--------|----------|
