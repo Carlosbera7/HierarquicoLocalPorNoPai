@@ -35,6 +35,8 @@
 | Homossexuals     | 0.99      | 0.99       | 0.99   | 0.85      | 0.82       | 0.84   | 0.98     |
 
 
+<img width="1600" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/06c89c13-69e2-4bce-a840-b085442b57bd" />
 
+<img width="2984" height="347" alt="DAG_Reduzido (2)" src="https://github.com/user-attachments/assets/8a24f89a-128c-4657-9422-d3d2f129fd8f" />
 
 
