@@ -37,6 +37,18 @@
 
 <img width="1600" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/06c89c13-69e2-4bce-a840-b085442b57bd" />
 
+
+
 <img width="2984" height="347" alt="DAG_Reduzido (2)" src="https://github.com/user-attachments/assets/8a24f89a-128c-4657-9422-d3d2f129fd8f" />
+
+<img width="511" height="44" alt="image" src="https://github.com/user-attachments/assets/df6959ae-018e-4abf-bbe5-a6face02c74e" />
+<img width="504" height="35" alt="image" src="https://github.com/user-attachments/assets/c5b6042a-f23c-42a2-a33e-865bc79196a9" />
+<img width="483" height="38" alt="image" src="https://github.com/user-attachments/assets/ee3f30d8-1153-42c1-b2ee-c3abe53d61d3" />
+<img width="500" height="35" alt="image" src="https://github.com/user-attachments/assets/c9537345-c7bb-40e0-a9bc-2f6499b373e2" />
+<img width="471" height="35" alt="image" src="https://github.com/user-attachments/assets/f008376c-e5ad-4fdb-a82e-10054053dc42" />
+
+
+
+
 
 
