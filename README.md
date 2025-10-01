@@ -47,6 +47,14 @@
 <img width="500" height="35" alt="image" src="https://github.com/user-attachments/assets/c9537345-c7bb-40e0-a9bc-2f6499b373e2" />
 <img width="471" height="35" alt="image" src="https://github.com/user-attachments/assets/f008376c-e5ad-4fdb-a82e-10054053dc42" />
 
+grafico hierarquico com 10 folds de teste 
+<img width="2379" height="1180" alt="image" src="https://github.com/user-attachments/assets/b4fa2a88-db7f-4a1b-887e-f7f6e2f2e01e" />
+
+grafico multilabel com 10 fols de teste
+<img width="2379" height="1180" alt="image" src="https://github.com/user-attachments/assets/c60970de-18fa-4884-a0b0-00f3da45cf32" />
+
+
+
 
 
 
